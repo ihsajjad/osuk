@@ -3,17 +3,6 @@
     font-weight: 400;
     font-size: 16px;
 }
-.primary-bg{
-    background-color: #B68C5A;
-}
-.primary-btn {
-    font-weight: 600;
-    font-size: 18px;
-    color: #FFFFFF;
-    background: #B68C5A;
-    border-radius: 8px;
-    padding: 16px 28px;
-}
 .footer-text{
     color: #CFCFCF;
     font-weight: 400;
